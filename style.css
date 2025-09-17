@@ -55,11 +55,7 @@ input {
 }
 input:focus, textarea:focus, select:focus{
 	outline: none;
-}
-button:active {
-	background-color: rgb(25, 25, 25);
-	color: rgb(224, 224, 224);
-}
+
 .space {
   background-color: transparent;
   border-color: transparent;
